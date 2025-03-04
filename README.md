@@ -1,5 +1,5 @@
 # elbo0015.github.io
-[My GitHub Pages Site](https://elbo0015.github.io/midterm)
+[elbo0015.github.io/midterm](https://elbo0015.github.io/midterm)
 
 
 
