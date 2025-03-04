@@ -1,5 +1,5 @@
 # elbo0015.github.io
-[elbo0015.github.io/midterm](elbo0015.github.io/midterm) 
+[https://github.com/elbo0015/elbo0015.github.io/tree/main/midterm](elbo0015.github.io/midterm) 
 
 
 
