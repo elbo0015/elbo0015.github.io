@@ -1,6 +1,6 @@
 # elbo0015.github.io
 
-http:/elbo0015.github.io/final-project 
+http://elbo0015.github.io/final-project 
 
 
 
